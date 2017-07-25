@@ -9,5 +9,9 @@
 访问路径为 /1_getting_started/dist
 
 ## 管理资源  
-访问路径为 /2_asset_management/dist
-只展示了`加载 CSS`这一步
+访问路径为 /2_asset_management/dist  
+只展示了`加载 CSS`这一步  
+
+## 管理输出  
+已经在上一章做过回退处理  
+访问路径为 /3_output_anagement/dist
