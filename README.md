@@ -20,4 +20,8 @@
 ## 开发  
 运行 `npm start`  
 访问路径为 http://localhost:8080/  
-`webpack-dev-server`
+`webpack-dev-server`  
+
+## 模块热替换  
+运行 `npm start`  
+访问路径为 http://localhost:8080/  
